@@ -1,3 +1,8 @@
 print("Hello python")
+<<<<<<< HEAD
 System.out.println("Hello Java"); 
 fmt.Println("Hello Golang")
+=======
+console.log("Hello Javascript")
+echo "Hello bash"
+>>>>>>> eccc2d2 (hello in python, js, bash)
